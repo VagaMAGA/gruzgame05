@@ -4,7 +4,7 @@ Base App mini app for **loma555** (Next.js + wagmi + Farcaster Mini App SDK).
 
 ## Config (hardcoded, no Vercel env)
 
-| Item | Value |
+| Item | Value |g
 |------|--------|
 | Base App ID | `6a147457ed0edcf2e9a87728` → `lib/appConfig.ts` + `<meta name="base:app_id">` |
 | Contract (Base Mainnet) | [0x2E1a2116d4A449d137953931C2C787Ad86b191Ad](https://basescan.org/address/0x2E1a2116d4A449d137953931C2C787Ad86b191Ad) |
