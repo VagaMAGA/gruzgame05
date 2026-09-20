@@ -1,4 +1,4 @@
-# Gruz Game 05 — Pokemon Tap
+# Gruz Game 05 — Pokemon Tap11
 
 Base App mini app for **loma555** (Next.js + wagmi + Farcaster Mini App SDK).
 
